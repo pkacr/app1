@@ -6,9 +6,18 @@ function App(){
 }
 export default App*/
 
+/* ข้อ2
 import React from 'react'
 import {Calculator2} from './calculator'
 
 export default function App(){
     return<Calculator2/>
+}*/
+
+// ข้อ3
+import React from 'react'
+import { EvenData2 } from './event-data'
+
+export default function App(){
+    return <EvenData2/>
 }
