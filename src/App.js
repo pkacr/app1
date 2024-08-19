@@ -1,3 +1,15 @@
+import React from "react";
+import RefsFunc from "./refs-func";
+
+export default function App(){
+  return <RefsFunc/>
+}
+
+
+
+
+
+//--------------------------------------------------
 /* ข้อ1
 import React from 'react'
 import Button from './class-components'
@@ -14,10 +26,10 @@ export default function App(){
     return<Calculator2/>
 }*/
 
-// ข้อ3
+/* ข้อ3
 import React from 'react'
 import { EvenData2 } from './event-data'
 
 export default function App(){
     return <EvenData2/>
-}
+}*/
