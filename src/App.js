@@ -1,9 +1,18 @@
+//MessageBox
+import React from "react";
+import MessageBox from "./state-func";
+
+export default function App(){
+  return <MessageBox/>
+}
+/*
+refs-func
 import React from "react";
 import RefsFunc from "./refs-func";
 
 export default function App(){
   return <RefsFunc/>
-}
+}*/
 
 
 
